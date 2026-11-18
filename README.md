@@ -56,6 +56,10 @@ Depois, acesse <http://localhost:8000>.
 
 Por ser um site estático, pode ser publicado em serviços de hospedagem de páginas estáticas, como o **GitHub Pages**. Basta disponibilizar os arquivos do projeto mantendo a estrutura de pastas acima.
 
+## Licença
+
+O código é disponibilizado para consulta e leitura. A reutilização, cópia, modificação ou distribuição exige autorização prévia e expressa, conforme os termos do arquivo [LICENSE](LICENSE). Materiais de terceiros podem ter condições próprias.
+
 ---
 
 <div align="center">
