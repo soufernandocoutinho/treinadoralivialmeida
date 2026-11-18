@@ -6,7 +6,6 @@
   --lime: #ff7900;
   --lime-bright: #ff9a24;
   --text: #f7f5f2;
-  --muted: #c2bbb5;
   --line: rgba(255, 154, 36, 0.2);
   --max: 1120px;
 }
@@ -308,14 +307,14 @@ section.content {
   letter-spacing: -0.04em;
 }
 .price small {
-  color: var(--muted);
+  color: #c2bbb5;
   font-size: 0.86rem;
   font-weight: 500;
   letter-spacing: 0;
 }
 .note {
   margin: 24px auto 0;
-  color: var(--muted);
+  color: #c2bbb5;
   text-align: center;
   font-size: 0.88rem;
 }
